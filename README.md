@@ -1,1 +1,1 @@
-# assistants-api
+# Assistants API Knowledge Retrieval Example
